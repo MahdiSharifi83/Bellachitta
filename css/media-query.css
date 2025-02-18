@@ -1,0 +1,267 @@
+@media (max-width:1850px){
+
+    div.banner{
+          top:px;
+          left:80px;
+      }
+  
+  }
+
+
+@media (max-width:1780px) {
+    header{
+        background-size: contain;
+        height: 180px;
+       margin:65px 0px;
+       
+    }
+    div.banner{
+        top:50px;
+        left:135px
+    }
+}
+
+@media (max-width:1720px){
+    div.banner{
+        left: 90px;
+    }
+}
+@media (max-width:1650px){
+    div.banner{
+        left: 70px;
+    }
+}
+@media (max-width:1650px){
+   header{
+    background-size: contain;
+    height: 170px;
+   }
+   div.banner{
+    left: 90px;
+    top:40px;
+}
+}
+@media (max-width:1550px){
+    header{
+        background-size: contain;
+        height: 165px;
+       }
+       div.banner{
+        left: 80px;
+        
+    }
+}
+@media (max-width:1500px){
+    header{
+        background-size: contain;
+        height: 160px;
+       }
+}
+@media (max-width:1450px){
+    header{
+        background-size: contain;
+        height: 155px;
+       }
+       div.banner{
+        left: 80px;
+        top: 30px;
+        
+    }
+}
+@media (max-width:1400px){
+    header{
+        background-size: contain;
+        height: 150px;
+       }
+       div.banner{
+        left: 80px;
+        top: 30px;
+        
+    }
+}
+@media (max-width:1350px){
+    header{
+        background-size: contain;
+        height: 145px;
+       }
+       div.banner{
+        left: 62px;
+        top: 22px;
+    }
+    div.menu{
+        width: 750px;
+        gap: 80px;
+    }
+}
+@media (max-width:1300px){
+    header{
+        background-size: contain;
+        height: 140px;
+       }
+       div.banner{
+        left: 62px;
+        top: 20px;
+    }
+    div.banner a{
+        font-size: 13px;
+    }
+    div.menu{
+        width: 650px;
+        gap: 70px;
+    }
+}
+@media (max-width:1250px){
+    header{
+        background-size: contain;
+        height: 135px;
+       }
+        div.banner{
+        left: 62px;
+        top: 20px;
+    } 
+    div.banner img{
+        width: 20px;
+    }
+    div.banner a{
+        font-size: 13px;
+    } 
+}
+@media (max-width:1200px){
+    header{
+        background-size: contain;
+        height: 130px;
+       }
+
+}
+@media (max-width:1150px){
+    header{
+        background-size: contain;
+        height: 125px;
+       }
+       div.banner{
+        left: 50px;
+        top: 17px;
+    } 
+    div.banner img{
+        width: 18px;
+    }
+    div.banner a{
+        font-size: 13px;
+    } 
+    div.menu{
+        width: 600px;
+        gap: 70px;
+    }
+    div.menu img{
+        width: 45px;
+    }
+
+}
+@media (max-width:1100px){
+    header{
+        background-size: contain;
+        height: 120px;
+       }
+
+    div.menu{
+        width: 580px;
+        height: 70px;
+        gap: 70px;
+        
+    }
+    div.menu img{
+        width: 40px;
+    }
+
+}
+@media (max-width:1050px){
+    header{
+        background-size: contain;
+        height: 110px;
+       }
+    div.banner{
+        display: none;
+    }
+
+    .category>.item-conteaner>.item>p{
+        font-size:16px;
+        font-weight:bold ;
+        margin-top: 2px;
+    }
+
+}
+@media (max-width:1000px){
+    header{
+        background-size: contain;
+        height: 105px;
+       }
+
+
+    }
+
+@media (max-width:950px){
+    header{
+        background-size: contain;
+        height: 100px;
+       }
+       div.menu{
+        width: 550px;
+        height: 60px;
+        gap: 60px;
+    }
+    div.menu img{
+        width: 35px;
+    }
+
+    .category>.item-conteaner>.item>p{
+        font-size:16px;
+        font-weight:bold ;
+        margin-top: 2px;
+    }
+    }
+    
+@media (max-width:900px){
+    header{
+        background-size: contain;
+        height: 100px;
+       }
+       div.menu{
+        width: 480px;
+        height: 55px;
+        gap: 60px;
+    }
+    div.menu img{
+        width: 30px;
+    }
+
+    }
+    @media (max-width:750px){
+        header{
+            position: static;
+            background-size: cover;
+            height: 150px;
+        }
+    }
+    @media (max-width:500px){
+        div.menu{
+            width: 400px;
+            gap: 50px;
+        }
+    }
+    @media (max-width:420px){
+        div.menu{
+            width: 370px;
+            gap: 40px;
+        }
+    }
+    @media (max-width:400px){
+        header{
+            position: static;
+            background-size: cover;
+            height: 130px;
+        }
+        div.menu{
+            width: 320px;
+            gap: 25px;
+        }
+    }
